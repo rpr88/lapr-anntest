@@ -35,11 +35,11 @@
   "created_by": "rpr88",
   "title": "LAPR1973_03_22",
   "slug": "lapr19730322",
-  "updated_at": "2025-02-11T21:45:23.076Z",
+  "updated_at": "2025-02-11T21:53:41.038Z",
   "updated_by": "rpr88",
   "parent": "2ba9f792-4d16-436b-b3ae-198b932a2365",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "95ef58e2-3c9a-4bd4-ba20-127fa1121b0f"
   }
